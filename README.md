@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=devmelonlee&fontSize=50&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
-
+<!--
 ### Hi there 👋
 
 안녕하세요!!!
-
+-->
 <!--
 **devmelonlee/devmelonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
+<!--
 [![devmelonlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmelonlee)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <br>
 <br>
   
